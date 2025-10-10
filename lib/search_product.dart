@@ -56,6 +56,7 @@ class _SearchProductState extends State<SearchProduct> {
                     "Men's shoe", "\$120", 4.0),
 
                 const SizedBox(height: 250), 
+              ],
             ),
           ),
 
